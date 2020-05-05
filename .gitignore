@@ -1,0 +1,15 @@
+# General file types:
+*.pdf
+*.docx
+*.iml
+*.classpath
+*.pptx
+**/__pycache__/
+**/out/
+**/venv/
+**/.idea/
+*.class
+*.zip
+*.tar
+*.[ao]
+
