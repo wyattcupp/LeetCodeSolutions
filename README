@@ -1,4 +1,19 @@
 A collection of all the leetcode solutions I have solved in a variety of languages.
+Most (if not all) of these solutions are the original solutions I thought up myself.
+
+Efficiency improvements and comments will be noted and code will be commented with basic logic.
 
 Updated regularly.
+
+
+Compile (Java):
+
+From the /src/ directory,
+
+javac ./main/*.java ./leetcode/*.java
+
+Run (Java):
+
+java main.Main [args]
+
 
